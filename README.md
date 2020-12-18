@@ -1,6 +1,6 @@
 ### Hola a todos, This is Shubhankar Poddar-aka codeaholic-shub👋 
  
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>  <img src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif">
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>                                                                                                                       <img src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif">
 
 
 - 🤔 &nbsp; Exploring new technologies and being a coding enthusiastic.
