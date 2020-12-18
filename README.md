@@ -1,7 +1,6 @@
 ### Hola a todos, This is Shubhankar Poddar-aka codeaholic-shub👋 
 
 
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -25,9 +24,9 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/codeaholic-shub">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeaholic-shub&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeaholic-shub&theme=buefy&layout=compact" />
 </a>
 
 <br/>
