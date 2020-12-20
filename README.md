@@ -1,6 +1,6 @@
 ### Hola a todos, This is Shubhankar Poddar-aka codeaholic-shub👋 
  
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="280px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="380px"/>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>                                                                           
 
 
