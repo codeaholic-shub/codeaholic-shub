@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and being a coding enthusiastic.
 - 🎓 &nbsp; Studying Computer Science and Engineering at Madan Mohan Malviya University of Technology.
-- 🌱 &nbsp; Learning more about Full Stack Web Developement,Blockchain and Android Developement.
+- 🌱 &nbsp; Learning more about MERN Stack.
 - ✍️ &nbsp; Pursuing Technical Content Writing and some other tech stuffs.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
