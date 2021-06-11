@@ -1,6 +1,7 @@
 ### Hola a todos, This is Shubhankar Poddar-aka codeaholic-shub👋 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeaholic-shub&label=Profile%20views&color=0e75b6&style=flat" alt="codeaholic-shub" /> </p>
  
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="380px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="280px"/>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>                                                                           
 
 
@@ -30,6 +31,11 @@
 </a>
 
 <br/>
+
+
+<summary>:trophy: Github Profile Trophy</summary>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=codeaholic-shub&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
