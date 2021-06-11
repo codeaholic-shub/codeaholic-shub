@@ -1,4 +1,4 @@
-### Hola a todos, This is Shubhankar Poddar-aka codeaholic-shub👋 
+### नमस्ते (Namaste)🙏, This is Shubhankar Poddar-aka codeaholic-shub👋 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeaholic-shub&label=Profile%20views&color=0e75b6&style=flat" alt="codeaholic-shub" /> </p>
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="280px"/>
@@ -47,7 +47,31 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shubhankar-poddar-b58684193/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shubhankar%20Poddar-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/_s_h_u_b_h_a_n_k_a_r/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_s_h_u_b_h_a_n_k_a_r-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:shubhankar.poddar789@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shubhankar.poddar789@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/shubhankar-poddar-b58684193/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/codeaholic-shub">
+    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+  </a>
+
+  <a href="https://www.facebook.com/shubhankar.poddar.50/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
+  </a>
+ 
+  <a href="https://www.instagram.com/_s_h_u_b_h_a_n_k_a_r/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://twitter.com/ShubhankarPodd6">
+    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://codeaholic-shub.medium.com/" target="_blank"><img src="https://img.shields.io/badge/medium-%230A0A0A.svg?&style=flat-square&logo=medium&logoColor=white" alt="medium"></a>
 </p>
+
+
+
+
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
