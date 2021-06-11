@@ -68,10 +68,8 @@
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
  
-  <a href="https://codeaholic-shub.medium.com/" target="_blank"><img src="https://img.shields.io/badge/medium-%230A0A0A.svg?&style=flat-square&logo=medium&logoColor=white" alt="medium">
- </a>
- 
-</p>
+  <a href="https://codeaholic-shub.medium.com/" target="_blank"><img src="https://img.shields.io/badge/medium-%230A0A0A.svg?&style=flat-square&logo=medium&logoColor=white" alt="medium"></a>
+ </p>
 
 
 
