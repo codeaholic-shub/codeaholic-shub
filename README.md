@@ -47,10 +47,11 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
+ 
   <a href="https://www.linkedin.com/in/shubhankar-poddar-b58684193/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  
+ 
   <a href="https://github.com/codeaholic-shub">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
@@ -66,7 +67,10 @@
   <a href="https://twitter.com/ShubhankarPodd6">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
-  <a href="https://codeaholic-shub.medium.com/" target="_blank"><img src="https://img.shields.io/badge/medium-%230A0A0A.svg?&style=flat-square&logo=medium&logoColor=white" alt="medium"></a>
+ 
+  <a href="https://codeaholic-shub.medium.com/" target="_blank"><img src="https://img.shields.io/badge/medium-%230A0A0A.svg?&style=flat-square&logo=medium&logoColor=white" alt="medium">
+ </a>
+ 
 </p>
 
 
