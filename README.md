@@ -43,6 +43,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeaholic-shub&" alt="codeaholic-shub" /></p>
 <br><br>
 
+![GitHub metrics](https://metrics.lecoq.io/codeaholic-shub)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -67,7 +68,7 @@
 
 
 
-
+<div align="center"><strong>Show some ❤️️ by starring⭐ some of the repositories!</strong></div>
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
