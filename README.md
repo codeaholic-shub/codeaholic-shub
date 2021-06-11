@@ -36,6 +36,12 @@
 <summary>:trophy: Github Profile Trophy</summary>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=codeaholic-shub&theme=monokai&row=1&no-frame=true&no-bg=true/">
+  
+  
+  <summary>:fire: GitHub Streak</summary>
+ <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeaholic-shub&" alt="codeaholic-shub" /></p>
+<br><br>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
