@@ -47,7 +47,7 @@
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/codeaholic-shub)
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
