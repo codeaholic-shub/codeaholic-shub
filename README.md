@@ -42,7 +42,11 @@
  <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeaholic-shub&" alt="codeaholic-shub" /></p>
 <br><br>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codeaholic-shub)
+
+
+
 ![GitHub metrics](https://metrics.lecoq.io/codeaholic-shub)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
