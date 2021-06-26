@@ -45,7 +45,7 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codeaholic-shub)
 
-
+![GitHub metrics](https://metrics.lecoq.io/codeaholic-shub)
 
 
 
