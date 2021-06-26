@@ -44,16 +44,10 @@
 <br><br>
 
 
- <summary>:small_red_triangle_down: GitHub Activity Graphs </summary>
  
- <br>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codeaholic-shub)
-<br><br>
-<summary>:arrow_down: GitHub Metrics</summary>
-
-<br>
 ![GitHub metrics](https://metrics.lecoq.io/codeaholic-shub)
-<br><br>
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
