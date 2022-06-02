@@ -1,4 +1,4 @@
-### नमस्ते (Namaste)🙏, This is Shubhankar Poddar-aka codeaholic-shub  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
+### नमस्ते (Namaste)🙏, This is Shubhankar Poddar-aka codeaholic-shub  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeaholic-shub&label=Profile%20views&color=0e75b6&style=flat" alt="codeaholic-shub" /> </p>
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300px"/>
